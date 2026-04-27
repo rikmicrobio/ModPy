@@ -73,4 +73,5 @@ Default: `results/` in the current working directory.
 ---
 
 ## Contact
-Hazra Group · Department of Chemistry · IIT Roorkee
+Hazra Group · Department of Biosciences and Bioengineering
+· IIT Roorkee
