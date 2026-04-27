@@ -1,8 +1,8 @@
-# ModPy — Homology Modelling Pipeline
-**Developed by Rik Ganguly, Post Doctoral Fellow @ Hazra Group, IIT Roorkee**
-
 ---
 <img width="406" height="426" alt="Image" src="https://github.com/user-attachments/assets/b9b2a88a-3460-4975-8b00-e76ee8c7a70d" />
+
+# ModPy — Homology Modelling Pipeline
+**Developed by Rik Ganguly, Post Doctoral Fellow @ Hazra Group, IIT Roorkee**
 
 
 ## Files included
